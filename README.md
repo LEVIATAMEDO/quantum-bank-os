@@ -7,3 +7,4 @@ Algoritmos de trading baseados em padrões fractais, análise de risco com entre
 reismiriam@icloud.com 
 Fase*: desenvolvimento inicial, próxima meta: primeiro cliente piloto em 7 dias. Modelo: revenue-share (70% cliente / 30% nós)
 Commit message: initial commit - QuantumBank OS foundation
+Add requirements
